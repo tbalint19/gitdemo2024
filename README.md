@@ -11,3 +11,9 @@ git log
 git checkout . (or filename)
 
 szilva
+
+
+
+
+
+user 2 content added
