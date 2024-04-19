@@ -9,3 +9,5 @@ git status
 git log
 
 git checkout . (or filename)
+
+szilva
